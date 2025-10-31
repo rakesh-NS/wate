@@ -1,0 +1,7 @@
+{
+  "name": "Smart Waste Segregation & Pickup",
+  "description": "An AI-powered application that helps users classify their waste by uploading a photo and automatically schedules a pickup with the appropriate disposal team.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
